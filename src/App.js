@@ -1,9 +1,10 @@
 // import logo from './logo.svg';
 import './App.css';
-import Navbar from './components/Navbar';
+// import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Card from './components/Card';
+import Container from './components/Container';
 
 
 function App() {
@@ -11,8 +12,8 @@ function App() {
 
     <div>
       <Header />
-      <Navbar />
-      <Card />
+      {/* <Navbar /> */}
+      <Container />
       <Card />
       <Card />
       <Footer />
