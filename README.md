@@ -3,12 +3,8 @@
  ## Table of Contents
 
  - [Description](#Description)
- - [Installation](#Installation)
- - [Usage](#Usage)
- - [Contribution](#Contribution)
- - [Tests](#Tests)
- - [License](#License)
- - [Questions](#Questions)
+ - [Built](#Built)
+ - [Contact](#Contact)
 
  ## Description
 
@@ -20,7 +16,7 @@ This is a portfolio page for class project.
 
  <p align="right">(<a href="#Portfolio">back to top</a>)</p>
  
- ## Built with
+ ## Built
 
 - ReactJS
 - HTML
