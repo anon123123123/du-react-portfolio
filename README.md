@@ -10,7 +10,7 @@
 
 This is a portfolio page for class project.
 
-[Deployed]()
+[Deployed](https://anon123123123.github.io/du-react-portfolio/)
 
 ![Image](./read.png)
 
