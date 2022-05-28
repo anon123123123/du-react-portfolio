@@ -4,6 +4,8 @@ import Navbar from './Navbar';
 // import Card from './Card';
 import About from '../pages/About';
 import Portfolio from '../pages/Portfolio';
+import Contact from '../pages/Contact';
+import Resume from '../pages/Resume';
 
 function Container() {
     const [currentPage, setCurrentPage] = useState("ABOUT");
@@ -14,6 +16,12 @@ function Container() {
       }
       if (currentPage === "PORTFOLIO") {
         return <Portfolio />;
+      } 
+      if (currentPage === "CONTACT") {
+        return <Contact />;
+      }
+      if (currentPage === "RESUME") {
+        return <Resume />;
       }
 
       return;

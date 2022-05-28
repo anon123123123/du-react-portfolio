@@ -12,12 +12,18 @@ code {
     monospace;
 }
 
-.card {
-    margin: 20;
-    background: #e8eaf6;
+.nav-card {
+  margin: 20;
+  background: #e8eaf6;
 }
 
-.card-header {
+.card {
+    margin: 40;
+    background: white;
+    min-height: 50rem;
+}
+
+.nav-card-header {
   background: #02ca8b;
   min-height: 50;
   line-height: 3.5;
@@ -28,10 +34,39 @@ code {
   flex-wrap: wrap;
 }
 
-.card-header a{
+.card-header {
+  background: #c1ffeb;
+  min-height: 50;
+  line-height: 3.5;
+  font-size: 1.2rem;
+  color: rgb(0, 0, 0);
+  padding: 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card-content {
+  padding: 20px;
+  margin-left: 25%;
+  margin-right: 40%;
+  margin-top: 3rem;
+  box-shadow:  0px 8px 6px 0 #000, 
+  0 16px 8px 0px #ccc;
+  width: clamp(45ch, 50%, 75ch);
+  line-height: 1.5;
+}
+
+.nav-card-header a{
   color: #f6f6f8fc;
   font-weight: bold;
   margin-left: 1.2rem;
   text-decoration:none; 
   cursor:pointer;  
+}
+
+#profile-pic {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 200px;
 }
