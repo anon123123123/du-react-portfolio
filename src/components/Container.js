@@ -1,7 +1,6 @@
 // import React from 'react';
 import React, { useState } from "react";
 import Navbar from './Navbar';
-// import Card from './Card';
 import About from '../pages/About';
 import Portfolio from '../pages/Portfolio';
 import Contact from '../pages/Contact';
