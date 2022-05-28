@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/du-react-portfolio/static/css/main.a707dfe5.css",
-    "main.js": "/du-react-portfolio/static/js/main.2cf77709.js",
+    "main.js": "/du-react-portfolio/static/js/main.a7b9c411.js",
     "index.html": "/du-react-portfolio/index.html",
     "main.a707dfe5.css.map": "/du-react-portfolio/static/css/main.a707dfe5.css.map",
-    "main.2cf77709.js.map": "/du-react-portfolio/static/js/main.2cf77709.js.map"
+    "main.a7b9c411.js.map": "/du-react-portfolio/static/js/main.a7b9c411.js.map"
   },
   "entrypoints": [
     "static/css/main.a707dfe5.css",
-    "static/js/main.2cf77709.js"
+    "static/js/main.a7b9c411.js"
   ]
 }
